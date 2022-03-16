@@ -5,13 +5,13 @@
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h2>
     <div id="badges">
-        <a href="https://www.linkedin.com/in/pablo-padilla-6861b5137/">
+        <a target="_blank" href="https://www.linkedin.com/in/pablo-padilla-6861b5137/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn"/>
         </a>
-        <a href="https://www.pablopadilla.net/">
+        <a target="_blank" href="https://www.pablopadilla.net/">
             <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" alt="Portfolio"/>
         </a>
-        <a href="https://resume.creddle.io/resume/2d3jegbggub">
+        <a target="_blank" href="https://drive.google.com/file/d/1HwzDJzT60Qw3AckfNHNybn0dDDUv_0xx/view?usp=sharing">
             <img src="https://img.shields.io/badge/resume-orange?style=for-the-badge" alt="Resume"/>
         </a>
     </div>
@@ -24,13 +24,13 @@
 
 ##  👨‍💻 About Me :
 
-I am a committed and enthusiastic full-stack software engineer proficient in a variety of programming languages located in the San Francisco Bay Area 
-<img src="https://media.giphy.com/media/H1qBqDYqSEi49e1RLE/giphy.gif" width="30px"/>
+I am a committed and enthusiastic full-stack software engineer proficient in a variety of programming languages
 
-- 🔭 I’m currently working on refining my web and mobile design by development a mobile app using React Native 
-- 🌱 I’m currently learning on time and task managment by utilizing Agile method practices with Trello
-- 💬 Ask me about my obsession with strongly typed languages 
-- ⚡ I love to watch Anime and plenty of movies! 
+- 📍 I'm located in the San Francisco Bay Area <img src="https://media.giphy.com/media/H1qBqDYqSEi49e1RLE/giphy.gif" width="30px"/>
+- 🔭 I’m currently working on refining my Front-End skills by designing and developing a mobile app using React Native 
+- 🌱 I’m currently learning time and task managment by utilizing Agile method practices with Trello
+- 💬 Ask me about my obsession with strongly typed languages
+- ⚡ I love to watch anime and plenty of movies! 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pablo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-padilla-6861b5137/)
 
 ---

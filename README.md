@@ -11,7 +11,7 @@
         <a target="_blank" href="https://www.pablopadilla.net/">
             <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" alt="Portfolio"/>
         </a>
-        <a target="_blank" href="https://drive.google.com/file/d/1HwzDJzT60Qw3AckfNHNybn0dDDUv_0xx/view?usp=sharing">
+        <a target="_blank" href="https://drive.google.com/file/d/1_KuQOLixYHB2WoC7q4yHZ2I3Ftza7l5q/view?usp=sharing">
             <img src="https://img.shields.io/badge/resume-orange?style=for-the-badge" alt="Resume"/>
         </a>
     </div>

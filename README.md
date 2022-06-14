@@ -2,7 +2,7 @@
     <h2 style="font-size: 3rem">
         Hi there, I'm 
         <a href="https://www.pablopadilla.net/">Pablo Padilla</a>
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 30px; height: 30px" width="30px"/>
+<!--         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 30px; height: 30px" width="30px"/> -->
     </h2>
     <div id="badges">
         <a target="_blank" href="https://www.linkedin.com/in/pablo-padilla-6861b5137/">
@@ -25,8 +25,9 @@
 ##  👨‍💻 About Me :
 
 I am a committed and enthusiastic full-stack software engineer proficient in a variety of programming languages
+<!-- <img src="https://media.giphy.com/media/H1qBqDYqSEi49e1RLE/giphy.gif" width="30px"/> -->
 
-- 📍 I'm located in the San Francisco Bay Area <img src="https://media.giphy.com/media/H1qBqDYqSEi49e1RLE/giphy.gif" width="30px"/>
+- 📍 I'm located in the San Francisco Bay Area 
 - 🔭 I’m currently working on refining my Front-End skills by designing and developing a mobile app using React Native 
 - 🌱 I’m currently learning time and task managment by utilizing Agile method practices with Trello
 - 💬 Ask me about my obsession with strongly typed languages

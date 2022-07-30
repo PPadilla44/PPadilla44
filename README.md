@@ -5,13 +5,13 @@
 <!--         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 30px; height: 30px" width="30px"/> -->
     </h2>
     <div id="badges">
-        <a target="_blank" href="https://www.linkedin.com/in/pablo-padilla-6861b5137/">
+        <a target="_blank" href="https://www.linkedin.com/in/pablopadilla44/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn"/>
         </a>
         <a target="_blank" href="https://www.pablopadilla.net/">
             <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" alt="Portfolio"/>
         </a>
-        <a target="_blank" href="https://drive.google.com/file/d/1_KuQOLixYHB2WoC7q4yHZ2I3Ftza7l5q/view?usp=sharing">
+        <a target="_blank" href="https://drive.google.com/file/d/1tvACKkk_ChLjr2_ENIOJfbd8G9ZGp8t-/view">
             <img src="https://img.shields.io/badge/resume-orange?style=for-the-badge" alt="Resume"/>
         </a>
     </div>

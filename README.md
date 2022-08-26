@@ -77,12 +77,12 @@ I am a committed and enthusiastic full-stack software engineer proficient in a v
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 hrs 45 mins   ██████████▒░░░░░░░░░░░░░░   41.63 %
-CSS          3 hrs 6 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.15 %
-Java         1 hr 46 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
-TypeScript   1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
-XML          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Properties   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+JavaScript   4 hrs 32 mins   ██████████▒░░░░░░░░░░░░░░   40.72 %
+CSS          3 hrs 59 mins   █████████░░░░░░░░░░░░░░░░   35.76 %
+TypeScript   1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
+Java         50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+XML          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Properties   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 ```
 
 <!--END_SECTION:waka-->
